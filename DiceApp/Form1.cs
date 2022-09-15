@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp1
+namespace DiceApp
 {
     public partial class Form1 : Form{
 
@@ -26,33 +26,33 @@ namespace WindowsFormsApp1
 
             switch (randomNum1) {
                 case 1:
-                    pictureBox1.ImageLocation = @"C:\Users\buket\source\repos\WindowsFormsApp1\WindowsFormsApp1\img\dice1.png";
+                    pictureBox1.ImageLocation = @"C:\Users\buket\source\repos\DiceApp\DiceApp\img\dice1.png";
                     pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
                 case 2:
-                    pictureBox1.ImageLocation = @"C:\Users\buket\source\repos\WindowsFormsApp1\WindowsFormsApp1\img\dice2.png";
+                    pictureBox1.ImageLocation = @"C:\Users\buket\source\repos\DiceApp\DiceApp\img\dice2.png";
                     pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
 
                     break;
                 case 3:
-                    pictureBox1.ImageLocation = @"C:\Users\buket\source\repos\WindowsFormsApp1\WindowsFormsApp1\img\dice3.png";
+                    pictureBox1.ImageLocation = @"C:\Users\buket\source\repos\DiceApp\DiceApp\img\dice3.png";
                     pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
                 case 4:
-                    pictureBox1.ImageLocation = @"C:\Users\buket\source\repos\WindowsFormsApp1\WindowsFormsApp1\img\dice4.png";
+                    pictureBox1.ImageLocation = @"C:\Users\buket\source\repos\DiceApp\DiceApp\img\dice4.png";
                     pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
 
                     break;
                 case 5:
-                    pictureBox1.ImageLocation = @"C:\Users\buket\source\repos\WindowsFormsApp1\WindowsFormsApp1\img\dice5.png";
+                    pictureBox1.ImageLocation = @"C:\Users\buket\source\repos\DiceApp\DiceApp\img\dice5.png";
                     pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
                 case 6:
-                    pictureBox1.ImageLocation = @"C:\Users\buket\source\repos\WindowsFormsApp1\WindowsFormsApp1\img\dice6.png";
+                    pictureBox1.ImageLocation = @"C:\Users\buket\source\repos\DiceApp\DiceApp\img\dice6.png";
                     pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
                 default:
-                    pictureBox1.ImageLocation = @"C:\Users\buket\source\repos\WindowsFormsApp1\WindowsFormsApp1\img\dice1.png";
+                    pictureBox1.ImageLocation = @"C:\Users\buket\source\repos\DiceApp\DiceApp\img\dice1.png";
                     pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
             }
@@ -63,37 +63,37 @@ namespace WindowsFormsApp1
             {
                 case 1:
 
-                    pictureBox3.ImageLocation = @"C:\Users\buket\source\repos\WindowsFormsApp1\WindowsFormsApp1\img\dice1.png";
+                    pictureBox3.ImageLocation = @"C:\Users\buket\source\repos\DiceApp\DiceApp\img\dice1.png";
                     pictureBox3.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
                 case 2:
 
-                    pictureBox3.ImageLocation = @"C:\Users\buket\source\repos\WindowsFormsApp1\WindowsFormsApp1\img\dice2.png";
+                    pictureBox3.ImageLocation = @"C:\Users\buket\source\repos\DiceApp\DiceApp\img\dice2.png";
                     pictureBox3.SizeMode = PictureBoxSizeMode.StretchImage;
 
                     break;
                 case 3:
 
-                    pictureBox3.ImageLocation = @"C:\Users\buket\source\repos\WindowsFormsApp1\WindowsFormsApp1\img\dice3.png";
+                    pictureBox3.ImageLocation = @"C:\Users\buket\source\repos\DiceApp\DiceApp\img\dice3.png";
                     pictureBox3.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
                 case 4:
 
-                    pictureBox3.ImageLocation = @"C:\Users\buket\source\repos\WindowsFormsApp1\WindowsFormsApp1\img\dice4.png";
+                    pictureBox3.ImageLocation = @"C:\Users\buket\source\repos\DiceApp\DiceApp\img\dice4.png";
                     pictureBox3.SizeMode = PictureBoxSizeMode.StretchImage;
 
                     break;
                 case 5:
-                    pictureBox3.ImageLocation = @"C:\Users\buket\source\repos\WindowsFormsApp1\WindowsFormsApp1\img\dice5.png";
+                    pictureBox3.ImageLocation = @"C:\Users\buket\source\repos\DiceApp\DiceApp\img\dice5.png";
                     pictureBox3.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
                 case 6:
 
-                    pictureBox3.ImageLocation = @"C:\Users\buket\source\repos\WindowsFormsApp1\WindowsFormsApp1\img\dice6.png";
+                    pictureBox3.ImageLocation = @"C:\Users\buket\source\repos\DiceApp\DiceApp\img\dice6.png";
                     pictureBox3.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
                 default:
-                    pictureBox3.ImageLocation = @"C:\Users\buket\source\repos\WindowsFormsApp1\WindowsFormsApp1\img\dice1.png";
+                    pictureBox3.ImageLocation = @"C:\Users\buket\source\repos\DiceApp\DiceApp\img\dice1.png";
                     pictureBox3.SizeMode = PictureBoxSizeMode.StretchImage;
 
 

@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1
+﻿namespace DiceApp
 {
     partial class Form1
     {
